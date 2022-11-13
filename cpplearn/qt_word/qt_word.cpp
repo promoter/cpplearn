@@ -37,5 +37,7 @@ int main(int argc, char *argv[])
     word.replaceText(text2, "替换2");
     word.save(QString("%1/save.doc").arg(QCoreApplication::applicationDirPath()));
 
+//TODO: 这儿有个问题
+
     return a.exec();
 }
