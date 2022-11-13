@@ -27,9 +27,10 @@ void TestFuture()
 
 }
 
-
+#if 1
 int main()
 {
     TestFuture();
     return 0;
 }
+#endif

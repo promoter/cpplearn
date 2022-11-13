@@ -76,9 +76,13 @@ void shared_ptr_()
      
 }
 
+#if 0
+
 int main()
 {
     unique_ptr_();
     shared_ptr_();
     return 0;
 }
+
+#endif
