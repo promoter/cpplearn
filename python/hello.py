@@ -1,4 +1,4 @@
 import os
 
-print("adfd")
+print("vscode from python")
 
