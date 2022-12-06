@@ -74,8 +74,13 @@
         "qwidget": "cpp",
         "xxfunction": "cpp",
         "qobject": "cpp",
-        "qdebug": "cpp"
+        "qdebug": "cpp",
+        "qfontdatabase": "cpp",
+        "qtextedit": "cpp",
+        "qscopedpointer": "cpp"
     },
-    "cmake.sourceDirectory": "${workspaceFolder}/cpplearn/qt_word",
-    "C_Cpp.errorSquiggles": "Disabled"
+    "cmake.sourceDirectory": "${workspaceFolder}/cpplearn/qt_widget",
+    "C_Cpp.errorSquiggles": "Disabled",
+
+
 }

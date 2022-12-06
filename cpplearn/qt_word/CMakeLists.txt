@@ -28,3 +28,5 @@ endif()
 
 # 如果需要运行别的目录的CMakeLists.txt， settings.json目录改下"cmake.sourceDirectory"， 然后删除build目录下的临时目录，
 # Ctrl + Shift + P, CMake重现配置下，就可以build了。
+
+# 或者 settings.json目录改下"cmake.sourceDirectory"， 编辑“CMake缓存”中的 CMAKE_HOME_DICTIONARY ；然后重新 cmake构建一下。
